@@ -9,7 +9,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ### 🔥 Featured Projects
-- [Weather CLI App](https://github.com/Harrisonnganga/weather-cli) – Fetches real-time weather.
-- [Automated Email Tool](https://github.com/Harrisonnganga/email-automation) – Sends bulk emails via Gmail.
+updating soon
 
 📫 Reach me: **ngangaharrison490@gmail** | [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/harrison-ng-ang-a-91171a259/))
