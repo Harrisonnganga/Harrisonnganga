@@ -19,7 +19,7 @@ I turn *"404 Brain Not Found"* into *"200 OK"*—solving tech headaches with les
 </div>
 
 **Currently Leveling Up**:  
-🐍 **Python** | 🎸 **Django** *(Because even wizards need new spells!)*  
+🐍 **Python** | 🎸 **Django** *(Because even wizards need new spells! :)*  
 
 ---
 
